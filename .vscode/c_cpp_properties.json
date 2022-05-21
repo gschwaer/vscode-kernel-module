@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "linux-module",
+            "compileCommands": ".vscode/compile_commands.json",
+            "cStandard": "gnu89"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"[c]": {
+			"editor.tabSize": 8,
+			"editor.insertSpaces": false,
+		},
+		"files.associations": {
+			"*.h": "c",
+		},
+		"files.exclude": {
+			// "*.cmd": true,
+			// "*.d": true,
+			// "*.o": true,
+		}
+	}
+}
